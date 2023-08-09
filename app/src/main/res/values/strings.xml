@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="logo_text">Калькулятор</string>
+    <string name="hint_1">Введете первое число</string>
+    <string name="hint_2">Введете второе число</string>
+    <string name="add_btn">Вычислить сумму чисел</string>
+</resources>
